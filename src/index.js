@@ -1,12 +1,12 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+// import App from './05 Writing a Counter Reducer with Tests /App';
+// import App from './06 Store Methods: getState(), dispatch(), and subscribe()/App';
+// import App from './07 Implementing Store from Scratch/App';
+// import App from './08 React Counter Example/App';
+// import App from './09 Avoiding Array Mutations with concat(), slice(), and ...spread/App';
+// import App from './10 Avoiding Object Mutations with Object.assign() and ...spread/App';
+// import App from './11 Writing a Todo List Reducer (Adding a Todo)/App';
+// import App from './12 Writing a Todo List Reducer (Toggling a Todo)/App';
+// import App from './13 Reducer Composition with Arrays/App';
+import App from './14 Reducer Composition with Objects/App';
 
-ReactDOM.render(<App />, document.getElementById('root'));
-
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
+App();
