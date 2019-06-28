@@ -7,6 +7,11 @@
 // import App from './11 Writing a Todo List Reducer (Adding a Todo)/App';
 // import App from './12 Writing a Todo List Reducer (Toggling a Todo)/App';
 // import App from './13 Reducer Composition with Arrays/App';
-import App from './14 Reducer Composition with Objects/App';
+// import App from './14 Reducer Composition with Objects/App';
+// import App from './15 Reducer Composition with combineReducers()/App';
+// import App from './16 Implementing combineReducers() from Scratch/App';
+// import App from './17 React Todo List Example (Adding a Todo)/App';
+// import App from './18 React Todo List Example (Adding a Todo)/App';
+import App from './19 React Todo List Example (Filtering Todos)/App';
 
 App();
