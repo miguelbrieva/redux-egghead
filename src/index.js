@@ -13,6 +13,7 @@
 // import App from './17 React Todo List Example (Adding a Todo)/App';
 // import App from './18 React Todo List Example (Toggling a Todo)/App';
 // import App from './19 React Todo List Example (Filtering Todos)/App';
-import App from './20 Extracting Presentational Components (Todo, TodoList)/App';
+// import App from './20 Extracting Presentational Components (Todo, TodoList)/App';
+import App from './21 Extracting Presentational Components (AddTodo, Footer, FilterLink)/App';
 
 App();
