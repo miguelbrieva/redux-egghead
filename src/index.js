@@ -15,9 +15,8 @@
 // import App from './19 React Todo List Example (Filtering Todos)/App';
 // import App from './20 Extracting Presentational Components (Todo, TodoList)/App';
 // import App from './21 Extracting Presentational Components (AddTodo, Footer, FilterLink)/App';
-
 // import App from './22 Extracting Container Components (FilterLink)/App';
 // import App from './23 Extracting Container Components (VisibleTodoList, AddTodo)/App';
-import App from './24 Passing the Store Down Implicitly via Context/App';
+import App from './24 Passing the Store Down Explicitly via Props/App';
 
 App();
